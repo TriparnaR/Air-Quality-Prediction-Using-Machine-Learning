@@ -13,7 +13,6 @@ This project involves predicting air quality using machine learning techniques. 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
@@ -97,10 +96,7 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes and test them.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Feel free to adjust the sections based on the specific details and features of your project.
+
