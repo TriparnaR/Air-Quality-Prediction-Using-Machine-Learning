@@ -66,7 +66,7 @@ The models are evaluated using metrics such as:
 To run this project locally, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/air-quality-prediction.git
+git clone https://github.com/TriparnaR/Air-Quality-Prediction-Using-Machine-Learning.git
 cd air-quality-prediction
 pip install -r requirements.txt
 ```
