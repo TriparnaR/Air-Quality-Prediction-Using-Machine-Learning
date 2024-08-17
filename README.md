@@ -13,6 +13,9 @@ This project involves predicting air quality using machine learning techniques. 
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
+![Screenshot (423)](https://github.com/user-attachments/assets/ba77646a-9572-465e-9ab7-6f0c781bfc72)
+![Screenshot (429)](https://github.com/user-attachments/assets/974065bd-2583-41c7-a82f-3e8dab038bf6)
+
 
 ## Project Description
 
